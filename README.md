@@ -1,1 +1,2 @@
-# rfid-monitoring-demo
+# RFID Monitoring Dashboard
+Demo application for RFID tag monitoring
